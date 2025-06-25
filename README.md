@@ -17,3 +17,6 @@ A fully playable chess game built with HTML, CSS, and JavaScript. It includes al
 1. Clone this repo:
    ```bash
    git clone https://github.com/yourusername/responsive-chess-game.git
+
+   hello my name
+   
