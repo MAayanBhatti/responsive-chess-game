@@ -12,6 +12,12 @@ A fully playable chess game built with HTML, CSS, and JavaScript. It includes al
 - 📱 Mobile-friendly design (responsive layout)
 - 🔁 Reset game button
 
+## 🌐 Live Demo
+
+🔗 [View Project on GitHub Pages](https://MAayanBhatti.github.io/calculate-me)  
+> Replace the link above with your actual GitHub Pages URL after deployment.
+
+---
 ## 📁 How to Use
 
 1. Clone this repo:
