@@ -14,15 +14,14 @@ A fully playable chess game built with HTML, CSS, and JavaScript. It includes al
 
 ## 🌐 Live Demo
 
-🔗 [View Project on GitHub Pages](https://MAayanBhatti.github.io/calculate-me)  
-> Replace the link above with your actual GitHub Pages URL after deployment.
+🔗 [View Project on GitHub Pages](https://maayanbhatti.github.io/responsive-chess-game/)  
 
 ---
 ## 📁 How to Use
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/responsive-chess-game.git
+   git clone https://github.com/maayanbhatti/responsive-chess-game.git
 
 
    
